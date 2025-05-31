@@ -1,0 +1,9 @@
+path: final_dataset
+
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: scooter
+  1: parking_zone
